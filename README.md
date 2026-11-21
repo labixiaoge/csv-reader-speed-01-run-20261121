@@ -1,7 +1,8 @@
 # Fast csv-reader drop-in
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
-[![competition](https://make.fun/bounty/csv-reader-speed-01-run-20261121/badge.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![make.fun](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/labixiaoge/csv-reader-speed-01-run-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/labixiaoge/csv-reader-speed-01-run-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121)
 
 ## About
 
